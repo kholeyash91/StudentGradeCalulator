@@ -42,10 +42,7 @@ StudentGradeCalculator.java
 StudentGradeCalculator.java
 
 3. Compile the program:
-```bash
 javac StudentGradeCalculator.java
-
----
 
 4.Run the program:
 
@@ -53,7 +50,7 @@ java StudentGradeCalculator
 
 ---
 
-🔄 Program Flow
+## 🔄 Program Flow
 
 - User enters the number of subjects  
 - User enters marks for each subject  
