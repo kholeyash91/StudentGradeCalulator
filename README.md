@@ -45,6 +45,8 @@ StudentGradeCalculator.java
 ```bash
 javac StudentGradeCalculator.java
 
+---
+
 4.Run the program:
 
 java StudentGradeCalculator
